@@ -1,10 +1,9 @@
 # Overview
+This program was meant as a continuation to my training to better my skills in C++
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In this prograam I decided to make a program that stores favorite movies from best to worst.
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
-
-{Describe your purpose for writing this software.}
+I decided to make this program because this program was always one of the programs I would make to test out my knowledge and I figured that this program would tie in what I learned into a single program.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,21 +11,14 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I coded this program in Visual Studio using some of the coding libraries that it has to offer
 
-{Describe the programming language that you used and any libraries.}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+The code provided in this progam was done in C++, the libraries that were included in this program were vector, string, iostream, and a couple of other libraries in C++ to make this program run.
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- improve this code by adding other features such as removing movies from the list
+- giving the user the option to select options aside from adding movies from a list
+- add a function that I would use to enable the user to view the list
